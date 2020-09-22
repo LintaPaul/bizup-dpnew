@@ -31,7 +31,7 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background: url("../assets/bisup.jpg");
+  background: url("../assets/images/bisup.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-blend-mode: blend;
